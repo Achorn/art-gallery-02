@@ -1,6 +1,6 @@
 const images = [
   {
-    src: "/public/images/back-lit-cat.jpg",
+    src: "./public/images/back-lit-cat.jpg",
     title: "Backlit Cat",
     description: "A painting of my room mate",
     date: "",
@@ -8,7 +8,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/beach-bush.jpg",
+    src: "./public/images/beach-bush.jpg",
     title: "Beach Bush",
     description:
       "Took a picture at the beach on one of my bike rides and felt the need to paint it",
@@ -17,7 +17,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/burger.jpg",
+    src: "./public/images/burger.jpg",
     title: "Impossible Whopper",
     description: "My attempt at painting something with hyper-realistic",
     date: "",
@@ -25,7 +25,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/cat-in-box.JPG",
+    src: "./public/images/cat-in-box.JPG",
     title: "Cat in Box",
     description: "a painting of a friends cat I did for her birthday present",
     date: "",
@@ -33,7 +33,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/coffee-grinder-01.jpg",
+    src: "./public/images/coffee-grinder-01.jpg",
     title: "Mazzer Coffee Grinder",
     description: "my first try at painting without outlines",
     date: "",
@@ -41,7 +41,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/coffee-grinder-02.jpg",
+    src: "./public/images/coffee-grinder-02.jpg",
     title: "Another Mazzer Coffee Grinder",
     description: "I basically paint these guys when I'm bored at a coffee shop",
     date: "",
@@ -49,7 +49,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/crying-trio.PNG",
+    src: "./public/images/crying-trio.PNG",
     title: "The Crying Trio",
     description: "a doodle in my journal when I was feeling overwhelmed",
     date: "",
@@ -57,7 +57,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/cup-in-shoe.PNG",
+    src: "./public/images/cup-in-shoe.PNG",
     title: "Cup in Shoe",
     description: "My Mona Lisa. My love letter to San Francisco",
     date: "",
@@ -65,7 +65,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/cup.JPG",
+    src: "./public/images/cup.JPG",
     title: "Cup",
     description: "When I started to really get into Procreate",
     date: "",
@@ -73,7 +73,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/daniel-cowboy.PNG",
+    src: "./public/images/daniel-cowboy.PNG",
     title: "Daniel",
     description: "A quick study of Daniel on the set of There Will be Blood",
     date: "",
@@ -81,7 +81,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/eating-graham-cracker.jpg",
+    src: "./public/images/eating-graham-cracker.jpg",
     title: "Chomp Chomp",
     description: "",
     date: "",
@@ -89,7 +89,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/floating-in-space.PNG",
+    src: "./public/images/floating-in-space.PNG",
     title: "Floater",
     description: "",
     date: "",
@@ -97,7 +97,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/fox-running-sprite.gif",
+    src: "./public/images/fox-running-sprite.gif",
     title: "Fox running sprite sheet",
     description: "",
     date: "",
@@ -105,7 +105,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/graveller.PNG",
+    src: "./public/images/graveller.PNG",
     title: "Graveler",
     description:
       "Started playing my old pokemon games again, and wanted a pastel painting of my team",
@@ -114,7 +114,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/halloween-over.PNG",
+    src: "./public/images/halloween-over.PNG",
     title: "Summer's over",
     description: "",
     date: "",
@@ -122,7 +122,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/kinto-mug-01.JPG",
+    src: "./public/images/kinto-mug-01.JPG",
     title: "Kinto mug on couch",
     description: "My first Procreate Painting using the Blocking technique",
     date: "",
@@ -130,7 +130,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/knight-helmet-ship.jpg",
+    src: "./public/images/knight-helmet-ship.jpg",
     title: "Pew Pew",
     description: "concept for one of my video games (secret)",
     date: "",
@@ -138,7 +138,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/lake-merrit.PNG",
+    src: "./public/images/lake-merrit.PNG",
     title: "Finger Painting at Lake Merrit",
     description: "",
     date: "",
@@ -146,7 +146,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/lemon-tree.PNG",
+    src: "./public/images/lemon-tree.PNG",
     title: "Orange Tree in Los Feliz",
     description: "",
     date: "",
@@ -154,7 +154,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/lemons-while-stressed.PNG",
+    src: "./public/images/lemons-while-stressed.PNG",
     title: "Painting Lemons While Stressed",
     description: "",
     date: "",
@@ -162,7 +162,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/mountain.JPG",
+    src: "./public/images/mountain.JPG",
     title: "Mountain",
     description: "",
     date: "",
@@ -170,7 +170,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/orange-yoshi.PNG",
+    src: "./public/images/orange-yoshi.PNG",
     title: "Yoshi",
     description: "",
     date: "",
@@ -178,7 +178,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/recycling-truck.PNG",
+    src: "./public/images/recycling-truck.PNG",
     title: "Recycling",
     description: "",
     date: "",
@@ -186,7 +186,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/startled-cat.JPG",
+    src: "./public/images/startled-cat.JPG",
     title: "Startled Cat",
     description: "",
     date: "",
@@ -194,7 +194,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/suit.jpg",
+    src: "./public/images/suit.jpg",
     title: "Suit up",
     description: "Concept for my space game",
     date: "",
@@ -202,7 +202,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/talking-to-family.PNG",
+    src: "./public/images/talking-to-family.PNG",
     title: "Phone Calls with Family",
     description: "",
     date: "",
@@ -210,7 +210,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/tape-on-string.PNG",
+    src: "./public/images/tape-on-string.PNG",
     title: "Tape on String",
     description: "",
     date: "",
@@ -218,7 +218,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/view-from-dolores.PNG",
+    src: "./public/images/view-from-dolores.PNG",
     title: "Views From Dolores",
     description: "",
     date: "",
@@ -226,7 +226,7 @@ const images = [
     featured: true,
   },
   {
-    src: "/public/images/yellow-cup.PNG",
+    src: "./public/images/yellow-cup.PNG",
     title: "Yellow Cup",
     description: "",
     date: "",
